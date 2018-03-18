@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Listas</string>
+    <string name="mensagemHome">Lista</string>
+    <string name="bottonAdd">ADICIONAR</string>
+    <string name="exViwer">ex: Nilson Xavier</string>
+</resources>
