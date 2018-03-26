@@ -3,4 +3,8 @@
     <string name="mensagemHome">Lista</string>
     <string name="bottonAdd">ADICIONAR</string>
     <string name="exViwer">ex: Nilson Xavier</string>
+    <string name="TextHome">O que você vai fazer hoje?</string>
+    <string name="botaoAdd">Adicionar Clientes</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnGerar">Gerar</string>
 </resources>
